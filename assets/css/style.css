@@ -13,6 +13,40 @@ body {
   color: #272829;
 }
 
+.colored {
+  font-size: 60px;
+}
+
+.icon-titles {
+  margin-top: 5%;
+}
+
+.icontitle {
+  margin-left: 2.5%;
+}
+
+.sequelize {
+  margin-left: -3px;
+}
+
+.flask {
+  margin-left: 12px;
+}
+
+.css3 {
+  margin-left: 12px;
+}
+
+.flex-wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.columnskills {
+  flex: 0 0 auto;
+  width: 20%;
+}
+
 a {
   color: #149ddd;
   text-decoration: none;
