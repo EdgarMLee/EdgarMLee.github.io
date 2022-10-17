@@ -37,6 +37,17 @@ body {
   margin-left: 12px;
 }
 
+.projectimg {
+  max-width: 400px;
+  max-height: 400px;
+}
+
+.portfolio-wrap {
+  /* border: 1px red solid; */
+  /* width: 400px;
+  height: 400px; */
+}
+
 .flex-wrap {
   display: flex;
   flex-wrap: wrap;
