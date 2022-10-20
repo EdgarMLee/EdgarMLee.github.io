@@ -1,1 +1,1 @@
-# Check out my portfolio at [EdgarMLee](https://edgarmlee.github.io/)!
+# Check out my portfolio at https://edgarmlee.github.io/
